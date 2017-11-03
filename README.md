@@ -1,7 +1,7 @@
 Framework for RESTful API's on node
 
 ![The Parkes Radio Telescope](https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/ParkesTelescopeNight.png/800px-ParkesTelescopeNight.png)
-https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/ParkesTelescopeNight.png/800px-ParkesTelescopeNight.png
+(The Parkes Radio Telescope in Parkes, NSW. Image from [Wikipedia](https://en.wikipedia.org/wiki/File:ParkesTelescopeNight.png), taken by Daniel John Reardon)
 
 ## Features
 
@@ -11,6 +11,8 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/ParkesTelescopeNight.p
 * Simple definition of public and private attributes
 * Uniform JSON errors
 * **Get a working API up in 5 minutes**
+
+# Getting Started
 
 Parkes is built upon [koa2](https://github.com/koajs/koa) and [sequelize](https://docs.sequelizejs.com) and requires at least node 7.6
 
